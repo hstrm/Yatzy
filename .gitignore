@@ -1,0 +1,12 @@
+# Ignorera kompilerade .class-filer
+*.class
+
+# Ignorera NetBeans-specifika filer
+/nbproject/private/
+
+# Ignorera build-mappen
+/build/
+
+# Ignorera andra tillfälliga filer
+*.log
+*.tmp
